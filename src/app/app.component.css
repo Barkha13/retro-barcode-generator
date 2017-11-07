@@ -1,0 +1,14 @@
+.wrapper{
+    display: inline-block;
+    height: 60px;
+    /* width: 900px; */
+    border: 1px dotted black;
+    margin-left: 510px;
+
+}
+
+.box{
+    display: inline-block;
+    height: 60px;
+    width: 50px;
+}
